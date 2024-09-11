@@ -84,7 +84,7 @@ export const home = `
 
     <div class="card-header">
         <div class="btn btn-faq">
-            <h2><a href="https://github.com/BenutzerEinsZweiDrei/awesome-mentale-gesundheit/tree/main"><i data-feather="external-link"></i>View on Github</a></h2>
+            <h2><a href="https://github.com/BenutzerEinsZweiDrei/mh-page"><i data-feather="external-link"></i>View on Github</a></h2>
         </div>
     </div>
 </div>
