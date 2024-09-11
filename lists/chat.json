@@ -1,0 +1,72 @@
+[
+    {
+        "name": "143 Chat Deutschschweiz",
+        "keywords": ["Schweiz", "Chat", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.143.ch/chat-deutschschweiz/",
+        "shortdesc": "Angebot eines Beratungs-Chats für die Deutschschweiz."
+    },
+    {
+        "name": "Unter 25",
+        "keywords": ["Jugend", "Chat", "Beratung"],
+        "HL": "external-link",
+        "url": "www.krisenchat.de",
+        "shortdesc": "Beratungsangebot für junge Menschen unter 25."
+    },
+    {
+        "name": "Whatsapp/Threema Peer Beratung",
+        "keywords": ["Peer Beratung", "Whatsapp", "Threema"],
+        "HL": "external-link",
+        "url": "https://in-cogito.de/",
+        "shortdesc": "Beratung per Whatsapp oder Threema durch Peer-Berater."
+    },
+    {
+        "name": "Junge Angehörige Chat Beratung",
+        "keywords": ["Junge Angehörige", "Chat", "Beratung"],
+        "HL": "external-link",
+        "url": "https://peer-for-you.de/",
+        "shortdesc": "Chat-Beratung für junge Angehörige."
+    },
+    {
+        "name": "Jugendliche in Österreich",
+        "keywords": ["Jugendliche", "Österreich", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.rataufdraht.at/links",
+        "shortdesc": "Beratung für Jugendliche in Österreich."
+    },
+    {
+        "name": "Telefonseelsorge Chat",
+        "keywords": ["Telefonseelsorge", "Chat", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.telefonseelsorge.de/",
+        "shortdesc": "Chat-Beratung durch die Telefonseelsorge."
+    },
+    {
+        "name": "24/7 Kummerkasten Gruppen-Chat",
+        "keywords": ["Kummerkasten", "Gruppen-Chat", "Beratung"],
+        "HL": "external-link",
+        "url": "https://kummerkasten-chat.de/",
+        "shortdesc": "Rund-um-die-Uhr-Gruppenchat im Kummerkasten."
+    },
+    {
+        "name": "Seelsorge Chat Termine",
+        "keywords": ["Seelsorge", "Chat", "Termine"],
+        "HL": "external-link",
+        "url": "https://chatseelsorge.evlka.de/v2/index.php",
+        "shortdesc": "Chat-Termine für seelsorgerische Beratung."
+    },
+    {
+        "name": "Caritas Onlineberatung",
+        "keywords": ["Caritas", "Onlineberatung", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.caritas.de/",
+        "shortdesc": "Onlineberatung durch die Caritas."
+    },
+    {
+        "name": "Obeon psychosoziale Beratung",
+        "keywords": ["Obeon", "Psychosoziale Beratung", "Online"],
+        "HL": "external-link",
+        "url": "https://www.obeon.de/",
+        "shortdesc": "Psychosoziale Onlineberatung durch Obeon."
+    }
+]

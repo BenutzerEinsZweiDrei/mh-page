@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Bis 18 Jahre",
+        "keywords": ["Kinder", "Jugendliche", "Beratung", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://www.nummergegenkummer.de/",
+        "shortdesc": "Beratung und Unterstützung für Kinder und Jugendliche bis 18 Jahre."
+    },
+    {
+        "name": "Nightline für Studierende",
+        "keywords": ["Studierende", "Nacht", "Hilfe", "Beratung"],
+        "HL": "external-link",
+        "url": "https://nightlines.eu/erreichbarkeit/",
+        "shortdesc": "Nachtzeitliche Beratung und Unterstützung für Studierende."
+    },
+    {
+        "name": "Krisendienste Bayern",
+        "keywords": ["Krise", "Bayern", "Notfall", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://www.krisendienste.bayern/",
+        "shortdesc": "Krisendienste für akute psychische Notfälle in Bayern."
+    },
+    {
+        "name": "Krisendienst Berlin",
+        "keywords": ["Krise", "Berlin", "Notfall", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.berliner-krisendienst.de/",
+        "shortdesc": "Beratung und Hilfe bei psychischen Krisen in Berlin."
+    },
+    {
+        "name": "Baden-Württemberg",
+        "keywords": ["Krise", "Baden-Württemberg", "Soforthilfe", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.ak-leben.de/sofort-hilfe.html",
+        "shortdesc": "Soforthilfe und Beratung bei Krisen in Baden-Württemberg."
+    },
+    {
+        "name": "Krisentelefon Sachsen",
+        "keywords": ["Krise", "Sachsen", "Telefon", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://www.dresden.de/de/rathaus/dienstleistungen/krisentelefon.php",
+        "shortdesc": "Telefonische Beratung bei Krisen in Sachsen."
+    },
+    {
+        "name": "Info Telefon Depression",
+        "keywords": ["Depression", "Hilfe", "Information", "Telefon"],
+        "HL": "external-link",
+        "url": "https://www.deutsche-depressionshilfe.de/depression-infos-und-hilfe/wo-finde-ich-hilfe/info-telefon",
+        "shortdesc": "Informations- und Beratungstelefon für Depressionen."
+    },
+    {
+        "name": "Michael Franke Stiftung gegen Suizid Beratung",
+        "keywords": ["Suizid", "Beratung", "Hilfe", "Stiftung"],
+        "HL": "external-link",
+        "url": "http://www.michael-franke-stiftung.de/",
+        "shortdesc": "Beratung und Unterstützung durch die Michael Franke Stiftung gegen Suizid."
+    },
+    {
+        "name": "Studentische Telefonseelsorge",
+        "keywords": ["Studierende", "Telefonseelsorge", "Hilfe", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.esg-hamburg.de/studentischetelefonseelsorge/",
+        "shortdesc": "Telefonseelsorge speziell für Studierende."
+    },
+    {
+        "name": "Notfallhotline Suizidalität Frankfurt",
+        "keywords": ["Suizid", "Notfall", "Frankfurt", "Hilfe"],
+        "HL": "phone",
+        "url": "tel:06963013113",
+        "shortdesc": "Notfallhotline für suizidale Krisen in Frankfurt."
+    },
+    {
+        "name": "Muslimisches Seelsorgetelefon",
+        "keywords": ["Muslim", "Seelsorge", "Hilfe", "Telefon"],
+        "HL": "external-link",
+        "url": "http://www.mutes.de/",
+        "shortdesc": "Telefonische Seelsorge speziell für Muslime."
+    },
+    {
+        "name": "Silbernetz über 60",
+        "keywords": ["Senioren", "Telefon", "Hilfe", "Beratung"],
+        "HL": "external-link",
+        "url": "http://www.silbernetz.org/",
+        "shortdesc": "Telefonische Beratung und Hilfe für Menschen über 60."
+    },
+    {
+        "name": "Für Menschen in Pflegeberufen",
+        "keywords": ["Pflegeberufe", "Hilfe", "Beratung", "Psychische Gesundheit"],
+        "HL": "external-link",
+        "url": "http://www.psych4nurses.de/",
+        "shortdesc": "Beratung und Unterstützung für Menschen in Pflegeberufen."
+    },
+    {
+        "name": "Telefon Doweria",
+        "keywords": ["Russischsprachig", "Beratung", "Hilfe", "Telefon"],
+        "HL": "external-link",
+        "url": "https://www.diakonie-portal.de/themen/ehrenamt-freiwilligendienste/ehrenamt-und-engagement/telefon-doweria-telefon-doverija",
+        "shortdesc": "Telefonische Beratung und Unterstützung für russischsprachige Menschen."
+    },
+    {
+        "name": "Internationale Telefonseelsorge",
+        "keywords": ["International", "Telefonseelsorge", "Hilfe", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.telefonseelsorge.de/internationale-hilfe/",
+        "shortdesc": "Internationale Telefonseelsorge für verschiedene Sprachen."
+    },
+    {
+        "name": "Sorgentelefon Robert Enke",
+        "keywords": ["Sorgen", "Beratung", "Robert Enke Stiftung", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://www.robert-enke-stiftung.de/projekte/beratungshotline-seelische-gesundheit",
+        "shortdesc": "Sorgentelefon der Robert Enke Stiftung für seelische Gesundheit."
+    }
+]

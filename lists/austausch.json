@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Forum",
+        "keywords": ["Forum", "Selbsthilfe", "Psychische Gesundheit"],
+        "HL": "external-link",
+        "url": "https://www.chaos-linie.de/",
+        "shortdesc": "Online-Forum für Menschen mit psychischen Belastungen."
+    },
+    {
+        "name": "Mental Health Community",
+        "keywords": ["Mental Health", "Community", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://adaa.org",
+        "shortdesc": "Online-Community zur Unterstützung bei Angst und Depressionen."
+    },
+    {
+        "name": "Diskussionsforum Depression",
+        "keywords": ["Depression", "Diskussionsforum", "Selbsthilfe"],
+        "HL": "external-link",
+        "url": "http://www.diskussionsforum-depression.de/",
+        "shortdesc": "Diskussionsforum für Betroffene von Depressionen."
+    },
+    {
+        "name": "Englischer Discord mit 24/7 Hilfe",
+        "keywords": ["Discord", "Mental Health", "24/7 Hilfe"],
+        "HL": "external-link",
+        "url": "https://discord.com/invite/cw7ph6Fs9wp",
+        "shortdesc": "Englischsprachiger Discord-Server mit rund um die Uhr Unterstützung."
+    },
+    {
+        "name": "Helpcity andere Betroffene",
+        "keywords": ["Betroffene", "Selbsthilfe", "Community"],
+        "HL": "external-link",
+        "url": "https://helpcity.de/",
+        "shortdesc": "Plattform für den Austausch mit anderen Betroffenen psychischer Erkrankungen."
+    }
+]

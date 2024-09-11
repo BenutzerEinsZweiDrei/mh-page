@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Junge Selbsthilfegruppe",
+        "keywords": ["Selbsthilfe", "Junge Menschen", "Online"],
+        "HL": "external-link",
+        "url": "https://www.junge-selbsthilfe-blog.de/die-themenuebergreifende-online-selbsthilfegruppe/",
+        "shortdesc": "Themenübergreifende Online-Selbsthilfegruppe für junge Menschen."
+    },
+    {
+        "name": "Junge Selbsthilfegruppe finden",
+        "keywords": ["Selbsthilfe", "Junge Menschen", "Gruppensuche"],
+        "HL": "external-link",
+        "url": "https://schon-mal-an-selbsthilfegruppen-gedacht.de/gruppen-finden/junge-selbsthilfegruppen/",
+        "shortdesc": "Plattform zur Suche nach Selbsthilfegruppen für junge Menschen."
+    },
+    {
+        "name": "Selbsthilfegruppen mit Psychologiestudenten",
+        "keywords": ["Selbsthilfe", "Psychologiestudenten", "Community"],
+        "HL": "external-link",
+        "url": "https://www.depribuddy-ev.de/angebote/community",
+        "shortdesc": "Selbsthilfegruppen in Zusammenarbeit mit Psychologiestudenten."
+    },
+    {
+        "name": "Online Treffpunkt für psychisch Kranke",
+        "keywords": ["Psychische Gesundheit", "Online-Treffpunkt", "Community"],
+        "HL": "external-link",
+        "url": "https://seeletrifftwelt.de/",
+        "shortdesc": "Online-Community für Menschen mit psychischen Erkrankungen."
+    },
+    {
+        "name": "Selbsthilfegruppe bei Krisen",
+        "keywords": ["Selbsthilfe", "Krisenbewältigung", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://rettungs-ring.de/",
+        "shortdesc": "Selbsthilfegruppe zur Unterstützung bei persönlichen Krisen."
+    },
+    {
+        "name": "Interaktive Online Kulturveranstaltungen gegen Einsamkeit",
+        "keywords": ["Einsamkeit", "Kultur", "Interaktive Veranstaltungen"],
+        "HL": "external-link",
+        "url": "https://diegutestunde.org/",
+        "shortdesc": "Online-Kulturveranstaltungen zur Bekämpfung von Einsamkeit."
+    },
+    {
+        "name": "Seelsorge Gruppen-Chat Termine",
+        "keywords": ["Seelsorge", "Gruppen-Chat", "Online-Termine"],
+        "HL": "external-link",
+        "url": "https://chatseelsorge.evlka.de/v2/index.php",
+        "shortdesc": "Online-Gruppen-Chats mit Seelsorgeangeboten."
+    },
+    {
+        "name": "Online Depressionen Gruppe",
+        "keywords": ["Depression", "Selbsthilfe", "Online-Gruppe"],
+        "HL": "external-link",
+        "url": "https://www.du-bist-wichtig.com/ueber-uns/",
+        "shortdesc": "Online-Selbsthilfegruppe für Menschen mit Depressionen."
+    },
+    {
+        "name": "Wohnzimmer Neurodivers",
+        "keywords": ["Neurodiversität", "Selbsthilfe", "Online"],
+        "HL": "external-link",
+        "url": "https://wohnzimmer-neurodivers.de/",
+        "shortdesc": "Online-Plattform für neurodiverse Menschen zur Selbsthilfe und Vernetzung."
+    }
+]

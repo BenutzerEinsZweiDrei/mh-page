@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Virtual Support Talks",
+        "keywords": ["Support", "Online-Beratung", "Mental Health"],
+        "HL": "external-link",
+        "url": "https://www.virtualsupporttalks.de/de/ich-suche-redezeit",
+        "shortdesc": "Online-Plattform für Gespräche und Unterstützung bei psychischen Belastungen."
+    },
+    {
+        "name": "Bis 25 Jahre",
+        "keywords": ["Jugendliche", "Suizidprävention", "Online-Beratung"],
+        "HL": "external-link",
+        "url": "https://www.u25-deutschland.de/",
+        "shortdesc": "Beratung für Jugendliche unter 25 Jahren bei Suizidgedanken."
+    },
+    {
+        "name": "Mail Beratung Depressionshilfe",
+        "keywords": ["Depression", "Mail-Beratung", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://www.deutsche-depressionshilfe.de/unsere-angebote/fuer-betroffene-und-angehoerige/e-mail-beratung",
+        "shortdesc": "Mail-Beratung für Betroffene von Depressionen und deren Angehörige."
+    },
+    {
+        "name": "Mailberatung Seelsorge.net Schweiz",
+        "keywords": ["Seelsorge", "Schweiz", "Mail-Beratung"],
+        "HL": "external-link",
+        "url": "https://www.seelsorge.net/",
+        "shortdesc": "Seelsorgerische Beratung via E-Mail in der Schweiz."
+    },
+    {
+        "name": "Peer e-Beratung Mail",
+        "keywords": ["Peer-Beratung", "Mail-Beratung", "Psychische Gesundheit"],
+        "HL": "external-link",
+        "url": "https://promentesana.ch/angebote/beratung/beratung-fuer-betroffene-nahestehende",
+        "shortdesc": "Mail-Beratung durch Peer-Berater für Betroffene und Nahestehende."
+    },
+    {
+        "name": "Sozialthemen Caritas",
+        "keywords": ["Soziale Themen", "Caritas", "Online-Beratung"],
+        "HL": "external-link",
+        "url": "https://www.caritas.de/hilfeundberatung/onlineberatung/onlineberatung",
+        "shortdesc": "Online-Beratung zu verschiedenen sozialen Themen durch Caritas."
+    },
+    {
+        "name": "1zu1 Mentoring in Forum",
+        "keywords": ["Mentoring", "Forum", "Psychische Gesundheit"],
+        "HL": "external-link",
+        "url": "https://mutmachleute.de/das-mutmachleute-forum/",
+        "shortdesc": "1zu1 Mentoring und Austausch in einem Forum für psychische Gesundheit."
+    },
+    {
+        "name": "Katholische Seelsorge",
+        "keywords": ["Katholisch", "Seelsorge", "Online-Beratung"],
+        "HL": "external-link",
+        "url": "https://www.internetseelsorge.de/seelsorge-online",
+        "shortdesc": "Online-Seelsorge der katholischen Kirche."
+    },
+    {
+        "name": "Beratung ü25",
+        "keywords": ["Beratung", "Erwachsene", "Online"],
+        "HL": "external-link",
+        "url": "https://mano-beratung.de/",
+        "shortdesc": "Online-Beratung für Menschen über 25 Jahren."
+    },
+    {
+        "name": "Sorgen Tagebuch das antwortet",
+        "keywords": ["Sorgen", "Tagebuch", "Antwort"],
+        "HL": "external-link",
+        "url": "https://www.sorgen-tagebuch.de/",
+        "shortdesc": "Ein Tagebuch, das auf die Sorgen der Nutzer antwortet."
+    },
+    {
+        "name": "Online Beratung",
+        "keywords": ["Online-Beratung", "Hoffnung", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://gfsa-ev.de/hoffnungswiese/",
+        "shortdesc": "Online-Beratung für Menschen in schwierigen Lebenssituationen."
+    },
+    {
+        "name": "Angst Selbsthilfe P2P Beratung",
+        "keywords": ["Angst", "Selbsthilfe", "Peer-to-Peer Beratung"],
+        "HL": "external-link",
+        "url": "https://www.angstselbsthilfe.de/angebote/beratung-online/",
+        "shortdesc": "Online Peer-to-Peer Beratung für Menschen mit Angststörungen."
+    },
+    {
+        "name": "OBEON Beratung",
+        "keywords": ["Beratung", "Psychische Gesundheit", "Online"],
+        "HL": "external-link",
+        "url": "https://www.obeon.de/",
+        "shortdesc": "Online-Beratung zu psychischer Gesundheit und psychosozialen Themen."
+    },
+    {
+        "name": "Ex-IN Peers",
+        "keywords": ["Peers", "Digitale Beratung", "Psychische Gesundheit"],
+        "HL": "external-link",
+        "url": "https://digitaleberatung-mv.assisto.online/",
+        "shortdesc": "Digitale Beratung durch Ex-IN Peers für Menschen mit psychischen Erkrankungen."
+    },
+    {
+        "name": "Weg nach Vorne",
+        "keywords": ["Beratung", "Online", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://www.der-weg-nach-vorne.de/",
+        "shortdesc": "Online-Beratung und Unterstützung für Menschen in schwierigen Lebenslagen."
+    },
+    {
+        "name": "Jugendliche bei Suizidgedanken",
+        "keywords": ["Suizidgedanken", "Jugendliche", "Beratung"],
+        "HL": "external-link",
+        "url": "https://www.youth-life-line.de/",
+        "shortdesc": "Beratung und Unterstützung für Jugendliche mit Suizidgedanken."
+    },
+    {
+        "name": "Kieler Beratung",
+        "keywords": ["Beratung", "Online", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://www.kieler-fenster.de/beratung-und-hilfe/beratung-und-hilfe-online-beratung/",
+        "shortdesc": "Online-Beratung durch das Kieler Fenster für Menschen in Notlagen."
+    },
+    {
+        "name": "Evangelisches Beraterzentrum",
+        "keywords": ["Evangelisch", "Beratung", "Online"],
+        "HL": "external-link",
+        "url": "https://www.ebz-bremerhaven.de/Online-Beratung",
+        "shortdesc": "Online-Beratung durch das Evangelische Beraterzentrum Bremerhaven."
+    }
+]

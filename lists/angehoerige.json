@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Angehörige Seelefon",
+        "keywords": ["Angehörige", "Telefonberatung", "Seelefon"],
+        "HL": "phone",
+        "url": "https://www.bapk.de/angebote/seelefon.html",
+        "shortdesc": "Telefonische Beratung für Angehörige von psychisch erkrankten Menschen."
+    },
+    {
+        "name": "Selbsthilfegruppen Angehörige",
+        "keywords": ["Selbsthilfegruppen", "Angehörige", "Psychiatrie"],
+        "HL": "external-link",
+        "url": "https://www.bapk.de/angebote/selbsthilfenetz-psychiatrie/suche-selbsthilfegruppen-deutschland-text.html",
+        "shortdesc": "Suche nach Selbsthilfegruppen für Angehörige in ganz Deutschland."
+    },
+    {
+        "name": "Angehörige um Suizid",
+        "keywords": ["Suizid", "Angehörige", "Telefontermine"],
+        "HL": "phone",
+        "url": "https://www.agus-selbsthilfe.de/online-angebote/telefontermine",
+        "shortdesc": "Telefonische Beratungstermine für Angehörige von Suizidopfern."
+    },
+    {
+        "name": "Elterntelefon",
+        "keywords": ["Eltern", "Telefonberatung", "Kinder"],
+        "HL": "phone",
+        "url": "https://www.nummergegenkummer.de/elternberatung/elterntelefon/",
+        "shortdesc": "Telefonberatung für Eltern in Erziehungsfragen."
+    },
+    {
+        "name": "Junge Angehörige (Echt Unersetzlich)",
+        "keywords": ["Junge Angehörige", "Psychische Gesundheit", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://www.echt-unersetzlich.de/",
+        "shortdesc": "Unterstützungsangebot für junge Angehörige von psychisch erkrankten Menschen."
+    },
+    {
+        "name": "Junge Angehörige (Peer For You)",
+        "keywords": ["Junge Angehörige", "Peer-Beratung", "Psychische Gesundheit"],
+        "HL": "external-link",
+        "url": "https://peer-for-you.de/",
+        "shortdesc": "Peer-Beratung und Unterstützung für junge Angehörige."
+    },
+    {
+        "name": "Weitere Angebote",
+        "keywords": ["Angehörige", "Psychische Gesundheit", "Hilfe"],
+        "HL": "external-link",
+        "url": "https://www.psytastic.de/hilfef%C3%BCrangeh%C3%B6rige",
+        "shortdesc": "Weitere Hilfsangebote für Angehörige von psychisch erkrankten Menschen."
+    }
+]

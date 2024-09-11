@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Suche der Deutschen Depressionshilfe",
+        "keywords": ["Depression", "Krisendienste", "Beratungsstellen"],
+        "HL": "external-link",
+        "url": "https://www.deutsche-depressionshilfe.de/depression-infos-und-hilfe/wo-finde-ich-hilfe/krisendienste-und-beratungsstellen",
+        "shortdesc": "Suche nach Krisendiensten und Beratungsstellen für Depressionen."
+    },
+    {
+        "name": "Suizidprophylaxe",
+        "keywords": ["Suizidprophylaxe", "Hilfsangebote", "Prävention"],
+        "HL": "external-link",
+        "url": "https://www.suizidprophylaxe.de/hilfsangebote/hilfsangebote/",
+        "shortdesc": "Informationen und Hilfsangebote zur Suizidprophylaxe."
+    },
+    {
+        "name": "Dajeb",
+        "keywords": ["Beratung", "Dajeb", "Hilfe in der Nähe"],
+        "HL": "external-link",
+        "url": "https://www.dajeb.de/beratungsfuehrer-online/beratung-in-ihrer-naehe",
+        "shortdesc": "Beratungsführer von Dajeb für die Suche nach Beratungsangeboten in der Nähe."
+    },
+    {
+        "name": "Liste Mental Health Initiativen",
+        "keywords": ["Mental Health", "Initiativen", "Netzwerk"],
+        "HL": "external-link",
+        "url": "https://www.seelischegesundheit.net/aktionsbuendnis/buendnispartner/",
+        "shortdesc": "Liste von Partnern und Initiativen im Bereich mentale Gesundheit."
+    },
+    {
+        "name": "Hilfeangebotefinder frnd.de",
+        "keywords": ["Hilfeangebote", "Frnd", "Finder"],
+        "HL": "external-link",
+        "url": "https://www.frnd.de/hilfe/hilfsangebote-finder/",
+        "shortdesc": "Tool zum Finden von Hilfeangeboten auf frnd.de."
+    },
+    {
+        "name": "Mut Atlas",
+        "keywords": ["Mut Atlas", "Selbsthilfe", "Psychische Gesundheit"],
+        "HL": "external-link",
+        "url": "https://www.mut-atlas.de/",
+        "shortdesc": "Plattform für Selbsthilfeangebote und Unterstützung bei psychischen Erkrankungen."
+    }
+]

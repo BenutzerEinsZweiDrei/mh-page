@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Unter 25",
+        "keywords": ["Krise", "Jugend", "Unterstützung"],
+        "HL": "phone",
+        "url": "https://www.krisenchat.de/",
+        "shortdesc": "Krisenchat für Menschen unter 25."
+    },
+    {
+        "name": "Telefonseelsorge auch per Mail/Chat",
+        "keywords": ["Beratung", "Telefon", "E-Mail", "Chat"],
+        "HL": "external-link",
+        "url": "https://www.telefonseelsorge.de/",
+        "shortdesc": "Telefonische Beratung, auch per E-Mail und Chat verfügbar."
+    },
+    {
+        "name": "Krisendienste Bayern",
+        "keywords": ["Krise", "Bayern", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://www.krisendienste.bayern/",
+        "shortdesc": "Krisendienste in Bayern."
+    },
+    {
+        "name": "Krisendienst Berlin",
+        "keywords": ["Krise", "Berlin", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://www.berliner-krisendienst.de/",
+        "shortdesc": "Krisendienst in Berlin."
+    },
+    {
+        "name": "Baden-Württemberg",
+        "keywords": ["Krise", "Baden-Württemberg", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://www.ak-leben.de/sofort-hilfe.html",
+        "shortdesc": "Krisenhilfe in Baden-Württemberg."
+    },
+    {
+        "name": "Krisendienst Dresden",
+        "keywords": ["Krise", "Dresden", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://www.dresden.de/de/leben/gesundheit/beratung/seelische-gesundheit/psychosozialer-krisendienst.php",
+        "shortdesc": "Krisendienst in Dresden."
+    },
+    {
+        "name": "Angebote bei Suizidgedanken",
+        "keywords": ["Suizid", "Unterstützung", "Krise"],
+        "HL": "external-link",
+        "url": "https://www.suizidprophylaxe.de/hilfsangebote/hilfsangebote/",
+        "shortdesc": "Unterstützungsangebote bei Suizidgedanken."
+    },
+    {
+        "name": "Website Alles Schlimm Heute",
+        "keywords": ["Unterstützung", "psychische Gesundheit", "Ressourcen"],
+        "HL": "external-link",
+        "url": "https://alles-schlimm-heute.de/",
+        "shortdesc": "Website für psychische Unterstützung."
+    },
+    {
+        "name": "Englischsprachige Hilfe per App",
+        "keywords": ["Englisch", "Unterstützung", "App"],
+        "HL": "external-link",
+        "url": "https://www.7cups.com/",
+        "shortdesc": "Englischsprachige Hilfe per App."
+    },
+    {
+        "name": "AI Therapeut",
+        "keywords": ["KI", "Therapie", "Unterstützung"],
+        "HL": "external-link",
+        "url": "https://www.freeaitherapist.com/",
+        "shortdesc": "KI-basierte therapeutische Unterstützung."
+    }
+]
