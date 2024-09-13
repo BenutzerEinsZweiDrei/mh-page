@@ -1,0 +1,177 @@
+ [
+  {
+    "name": "Bayern",
+    "keywords": ["Krisendienst", "Psychische Gesundheit", "Bayern"],
+    "HL": "external-link",
+    "url": "https://www.krisendienste.bayern/",
+    "shortdesc": "Krisendienste für psychische Gesundheit in Bayern"
+  },
+  {
+    "name": "Niedersachsen",
+    "keywords": ["Suizidprävention", "Krisentelefon", "Niedersachsen"],
+    "HL": "phone",
+    "url": "https://www.suizidpraevention-hildesheim.de/projekte/krisentelefon/",
+    "shortdesc": "Krisentelefon für Suizidprävention in Niedersachsen"
+  },
+  {
+    "name": "Niedersachsen/Hannover",
+    "keywords": ["Krisendienst", "Hannover", "Psychiatrie"],
+    "HL": "external-link",
+    "url": "https://www.hannover.de/Leben-in-der-Region-Hannover/Gesundheit/Beratungsstellen/Sozialpsychiatrischer-Verbund/Psychosozialer-Psychiatrischer-Krisendienst-PPKD-in-der-Region-Hannover",
+    "shortdesc": "Psychosozialer psychiatrischer Krisendienst in Hannover"
+  },
+  {
+    "name": "Baden-Württenberg/Suizid",
+    "keywords": ["Suizidprävention", "Soforthilfe", "Baden-Württenberg"],
+    "HL": "external-link",
+    "url": "https://www.ak-leben.de/sofort-hilfe.html",
+    "shortdesc": "Soforthilfe bei Suizidgedanken in Baden-Württenberg"
+  },
+  {
+    "name": "Baden-Württenberg/Krise",
+    "keywords": ["Krisenhotline", "Psychische Belastung", "Baden-Württenberg"],
+    "HL": "phone",
+    "url": "https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-richtet-hotline-fuer-menschen-mit-psychischen-belastungen-ein/",
+    "shortdesc": "Hotline für Menschen mit psychischen Belastungen in Baden-Württenberg"
+  },
+  {
+    "name": "Baden-Württenberg/Stuttgart",
+    "keywords": ["Krisendienst", "Notfalldienst", "Stuttgart"],
+    "HL": "external-link",
+    "url": "https://www.eva-stuttgart.de/unsere-angebote/angebot/krisen-und-notfalldienst",
+    "shortdesc": "Krisen- und Notfalldienst in Stuttgart"
+  },
+  {
+    "name": "Baden-Württenberg/Mannheim",
+    "keywords": ["Notfall", "Psychiatrie", "Mannheim"],
+    "HL": "external-link",
+    "url": "https://www.zi-mannheim.de/behandlung/notfall.html",
+    "shortdesc": "Notfallpsychologische Behandlung in Mannheim"
+  },
+  {
+    "name": "Nordrhein-Westfalen/Dortmund",
+    "keywords": ["Krisenzentrum", "Dortmund", "Psychische Gesundheit"],
+    "HL": "external-link",
+    "url": "https://krisenzentrum-dortmund-de.jimdofree.com/",
+    "shortdesc": "Krisenzentrum in Dortmund"
+  },
+  {
+    "name": "Nordrhein-Westfalen/Wuppertal",
+    "keywords": ["Krisendienst", "Psychische Gesundheit", "Wuppertal"],
+    "HL": "external-link",
+    "url": "https://krisendienst-wuppertal.de/",
+    "shortdesc": "Krisendienst in Wuppertal"
+  },
+  {
+    "name": "Brandenburg",
+    "keywords": ["Krisentelefon", "Psychische Gesundheit", "Brandenburg"],
+    "HL": "external-link",
+    "url": "https://www.fritz.de/programm/aktuelle-themen/aktionen-und-events/d/hilfe/hilfe-2019/hilfe-hilfsseite-telefonnummer-krisendienste-berlin-brandenburg.html",
+    "shortdesc": "Krisentelefon für Berlin und Brandenburg"
+  },
+  {
+    "name": "Mecklenburg-Vorpommern",
+    "keywords": ["Krisendienst", "Notfall", "Mecklenburg-Vorpommern"],
+    "HL": "external-link",
+    "url": "https://www.psychiatriewegweiser.sozialpsychiatrie-mv.de/krisen-und-notfallsituationen/",
+    "shortdesc": "Krisen- und Notfalldienste in Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hessen",
+    "keywords": ["Krisentelefon", "Psychische Gesundheit", "Hessen"],
+    "HL": "phone",
+    "url": "https://offeneohren-hessen.de/?group=6#search-section",
+    "shortdesc": "Krisentelefon für psychische Gesundheit in Hessen"
+  },
+  {
+    "name": "Hessen/Frankfurt",
+    "keywords": ["Krisendienst", "Frankfurt", "Psychische Gesundheit"],
+    "HL": "external-link",
+    "url": "https://krisendienst-frankfurt.de/",
+    "shortdesc": "Krisendienst in Frankfurt"
+  },
+  {
+    "name": "Hessen/Südhessen",
+    "keywords": ["Krisendienst", "Südhessen", "Caritas"],
+    "HL": "external-link",
+    "url": "https://www.caritas-darmstadt.de/beratung-und-hilfe/seelischekrise/krisendienst/suedhessen",
+    "shortdesc": "Krisendienst der Caritas für Südhessen"
+  },
+  {
+    "name": "Hessen/Darmstadt",
+    "keywords": ["Notdienst", "Psychiatrie", "Darmstadt"],
+    "HL": "external-link",
+    "url": "https://www.psychiatrischer-notdienst.de/",
+    "shortdesc": "Psychiatrischer Notdienst in Darmstadt"
+  },
+  {
+    "name": "Sachsen-Anhalt",
+    "keywords": ["Krisenhilfe", "Psychische Gesundheit", "Sachsen-Anhalt"],
+    "HL": "external-link",
+    "url": "https://ms.sachsen-anhalt.de/themen/gesundheit/daten-zur-gesundheit/psychiatrie-wegweiser",
+    "shortdesc": "Wegweiser für psychiatrische Krisenhilfe in Sachsen-Anhalt"
+  },
+  {
+    "name": "Rheinland-Pfalz",
+    "keywords": ["Krisenhilfe", "Telefon", "Rheinland-Pfalz"],
+    "HL": "phone",
+    "url": "https://www.psychnavi-rlp.de/krisenhilfe_telefon.php",
+    "shortdesc": "Krisenhilfe-Telefon in Rheinland-Pfalz"
+  },
+  {
+    "name": "Sachsen/Dresden",
+    "keywords": ["Notruf", "Infotelefon", "Dresden"],
+    "HL": "phone",
+    "url": "https://www.dresden.de/de/rathaus/notrufe-infotelefone.php",
+    "shortdesc": "Notrufe und Infotelefone in Dresden"
+  },
+  {
+    "name": "Thüringen",
+    "keywords": ["Krisenhilfe", "Beratung", "Thüringen"],
+    "HL": "external-link",
+    "url": "https://www.krankenhausspiegel-thueringen.de/psychische-gesundheit/hilfe-und-beratung",
+    "shortdesc": "Hilfe und Beratung für psychische Gesundheit in Thüringen"
+  },
+  {
+    "name": "Thüringen/Erfurt",
+    "keywords": ["Seelische Gesundheit", "Krisenhilfe", "Erfurt"],
+    "HL": "external-link",
+    "url": "https://www.erfurt.de/ef/de/leben/gesundheit/seelischegesundheit/144385.html",
+    "shortdesc": "Hilfe bei seelischen Krisen in Erfurt"
+  },
+  {
+    "name": "Schleswig-Holstein/Flensburg",
+    "keywords": ["Krisendienst", "Gesundheit", "Flensburg"],
+    "HL": "external-link",
+    "url": "https://www.schleswig-flensburg.de/Leben-Soziales/Gesundheit/Krisendienst/",
+    "shortdesc": "Krisendienst in Flensburg"
+  },
+  {
+    "name": "Saarland",
+    "keywords": ["Psychische Gesundheit", "Krisenhilfe", "Saarland"],
+    "HL": "external-link",
+    "url": "https://www.wips-saar.de/index.php?article_id=55&clang=1",
+    "shortdesc": "Krisenhilfe im Saarland"
+  },
+  {
+    "name": "Berlin",
+    "keywords": ["Krisendienst", "Hilfe", "Berlin"],
+    "HL": "phone",
+    "url": "https://www.berliner-krisendienst.de/ich-brauche-hilfe/",
+       "shortdesc": "Berliner Krisendienst für sofortige Hilfe"
+  },
+  {
+    "name": "Hamburg",
+    "keywords": ["Krisentelefon", "Psychische Gesundheit", "Hamburg"],
+    "HL": "phone",
+    "url": "https://www.hamburg.de/politik-und-verwaltung/bezirke/altona/themen/gesundheit/krisentelefon-61202",
+    "shortdesc": "Krisentelefon in Hamburg"
+  },
+  {
+    "name": "Bremen",
+    "keywords": ["Psychische Gesundheit", "Hilfe", "Bremen"],
+    "HL": "external-link",
+    "url": "https://www.bremer-krankenhausspiegel.de/psychische-gesundheit/hilfe-und-beratung",
+    "shortdesc": "Hilfe und Beratung für psychische Gesundheit in Bremen"
+  }
+]
