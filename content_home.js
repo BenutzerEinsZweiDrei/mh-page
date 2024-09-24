@@ -14,7 +14,9 @@ export const home = `
             <h3>Telefonseelsorge</h3>
             <h3>Psychosozialer Dienst</h3>
             <h3>Notfallambulanz Psychiatrie</h3>
-            <h3>Notaufname Krankenhaus</h3>
+            <h3>Notaufnahme Krankenhaus</h3>
+            <h3>Krankenwagen</h3>
+            <h3>medizinischer Notdienst</h3>
         </div>
     </div>
 </div>
